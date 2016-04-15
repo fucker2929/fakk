@@ -247,6 +247,7 @@ function create_config( )
     "s8",
     "s9",
     "s10",
+    "s10",
     "links",
     "moderation",
     "plugins",
