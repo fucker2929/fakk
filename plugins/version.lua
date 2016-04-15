@@ -3,7 +3,7 @@
 do
 
 function run(msg, matches)
-  return '@NOD32TEAM\nاپن شده توسط بهروز یاقی'
+  return 'FACKER BOTS'
 end
 
 return {
